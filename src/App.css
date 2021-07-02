@@ -1,3 +1,10 @@
+.App {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+  background-color: white;
+}
+
 .App-header {
   margin: 30px 0;
 }

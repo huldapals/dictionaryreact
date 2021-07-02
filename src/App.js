@@ -12,7 +12,7 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer"><small>Coded by Hulda Palsdottir</small></footer>
+        <footer className="App-footer"><small><a href="https://github.com/huldapals/dictionaryreact" target="_blank" rel="noreferrer">Coded</a> by Hulda Palsdottir</small></footer>
      </div>
     </div>
   );
