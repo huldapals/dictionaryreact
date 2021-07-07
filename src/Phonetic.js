@@ -7,5 +7,5 @@ export default function Phonetic(props){
             <br/>
             {props.phonetic.text}
         </div>
-    )
+    );
 }
