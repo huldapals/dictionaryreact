@@ -7,6 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
+          <h1>DICTIONARY</h1>
           <img src={shecodelogo} className="App-logo img-fluid" alt="logo"/>
         </header>
         <main>

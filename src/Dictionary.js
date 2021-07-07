@@ -25,6 +25,7 @@ function handelKeyword(event){
 
     return(
         <div className="Dictionary">
+            <h2>What word do you want to look up?</h2>
             <form onSubmit={search}>
                 <input type="search" onChange={handelKeyword}/>
                 <input type="submit"/>
