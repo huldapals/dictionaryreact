@@ -11,7 +11,7 @@ export default function App() {
           <img src={shecodelogo} className="App-logo img-fluid" alt="logo"/>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer"><small><a href="https://github.com/huldapals/dictionaryreact" target="_blank" rel="noreferrer">Coded</a> by Hulda Palsdottir</small></footer>
      </div>
