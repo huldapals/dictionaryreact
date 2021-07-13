@@ -52,7 +52,7 @@ if (loaded) {
             <form onSubmit={handleSubmit}>
                 <input type="search" onChange={handelKeyword} defaultValue={props.defaultKeyword}/>
             </form>
-            <div className="hint">Suggested keywords: sunset, wine, yoga, plant...</div>
+            <div className="hint">i.e. sunset, wine, yoga, plants</div>
             </section>
             <Results results={results}/>
             <Photos photos={photos}/>
