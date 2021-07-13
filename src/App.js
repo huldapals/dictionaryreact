@@ -7,15 +7,16 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>DICTIONARY</h1>
           <img src={shecodelogo} className="App-logo img-fluid" alt="logo"/>
         </header>
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer className="App-footer"><small><a href="https://github.com/huldapals/dictionaryreact" target="_blank" rel="noreferrer">Coded</a> by Hulda Palsdottir</small></footer>
+        <footer className="App-footer"><small>This project was coded by Hulda Palsdottir and is open-sourced on <a href="https://github.com/huldapals/dictionaryreact" target="_blank" rel="noreferrer">Github</a></small></footer>
      </div>
     </div>
   );
 }
+
+
 
