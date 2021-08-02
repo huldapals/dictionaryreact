@@ -4,20 +4,9 @@ a {
 
 .App {
   display: block;
+  padding-top: 70px;
   margin: 0 auto;
   max-width: 900px;
-}
-
-.App-header {
-  margin: 30px 0;
-  text-align: center;
-}
-
-.App-logo {
-  max-width: 200px;
-  display: block;
-  margin: 0 auto;
-  padding: 20px;
 }
 
 .App-footer {
